@@ -18,7 +18,7 @@
     "moment": "^2.24.0",
     "mongoose": "^5.9.2",
     "mongoose-pagination": "^1.0.0",
-    "nodemailer": "^6.4.4"
+    "nodemailer": "^6.4.16"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
